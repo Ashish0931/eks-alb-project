@@ -1,4 +1,4 @@
-#execute the files in the following order: 
+execute the files in the following order: 
 #1. setup_eks.sh - to create eks environment
 #2. configure_alb.sh - to create application load balancer .
 #3. create_fargate_profile.sh - to create a fargate profile to execute apps
