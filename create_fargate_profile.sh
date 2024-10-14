@@ -1,0 +1,1 @@
+eksctl create fargateprofile --cluster your-cluster --region your-region-code --name your-alb-sample-app --namespace <your name space> #create a fargate namespace. make sure you run your deployment in the namespace as mentioned in fargate for fargate to detect them and allot nodes. 
